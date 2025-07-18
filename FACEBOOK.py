@@ -191,14 +191,14 @@ def p(x):
 ____Version____ = '\033[1;32mV/1.1'
 #------------------[ LOGO ]-------------------#
 logo=(f"""\033[1;32m
-
-___/\\\/__\///\\\____\///\\\\\\/____      
+                                                                                                   
+ ___/\\\/__\///\\\____\///\\\\\\/____      
    __/\\\______\//\\\_____\//\\\\______     
     _\/\\\_______\/\\\______\/\\\\______    
      _\//\\\______/\\\_______/\\\\\\_____   
       __\///\\\__/\\\_______/\\\////\\\___  
        ____\///\\\\\/______/\\\/___\///\\\_ 
-        ______\/////_______\///_______\///__                                                                                                
+        ______\/////_______\///_______\///__      
                                                                                                                                                                                            
 \033[1;34m────────────────────────────────────────────────────────
  \033[1;32m[\033[1;31m–\033[1;32m] AUTHOR   : AK-SAED
@@ -270,12 +270,12 @@ def auto_create_fb_method_1_() -> None:
     print(' \033[1;32m[\033[1;31m3\033[1;32m] NAME VIETNAMESE')
     print(' \033[1;32m[\033[1;31m3\033[1;32m] NAME BANGLADESH')
     linex()
-    ethan_username = input(' \033[1;32m[\033[1;31m–\033[1;32m] CHOOSE : asik hasan" sobuj hasan" saed hasan" nusrat islam')
+    ethan_username = input(' \033[1;32m[\033[1;31m–\033[1;32m] CHOOSE : ')
     linex()
     print(' \033[1;32m[\033[1;31m1\033[1;32m] AUTO PASSWORD')
     print(' \033[1;32m[\033[1;31m2\033[1;32m] MANUAL PASSWORD')
     linex()
-    ethan_password = input(' \033[1;32m[\033[1;31m–\033[1;32m] CHOOSE : sadiya#@# " aksaed@@" sojibhasan" nusrat@@" asikhasan@#')
+    ethan_password = input(' \033[1;32m[\033[1;31m–\033[1;32m] CHOOSE : ')
     linex()
     if ethan_password in ['2','02']:
           pasw2 = input(' \033[1;32m[\033[1;31m–\033[1;32m] ENTER CUSTOM PASSWORD : ')
@@ -411,12 +411,12 @@ def auto_create_fb_method_2_() -> None:
     print(' \033[1;32m[\033[1;31m3\033[1;32m] NAME VIETNAMESE')
     print(' \033[1;32m[\033[1;31m3\033[1;32m] NAME BANGLADESH ')
     linex()
-    ethan_username = input(' \033[1;32m[\033[1;31m–\033[1;32m] CHOOSE : asik hasan" sobuj hasan" saed hasan" nusrat islam')
+    ethan_username = input(' \033[1;32m[\033[1;31m–\033[1;32m] CHOOSE : ')
     linex()
     print(' \033[1;32m[\033[1;31m1\033[1;32m] AUTO PASSWORD')
     print(' \033[1;32m[\033[1;31m2\033[1;32m] MANUAL PASSWORD')
     linex()
-    ethan_password = input(' \033[1;32m[\033[1;31m–\033[1;32m] CHOOSE : sadiya#@# " aksaed@@" sojibhasan" nusrat@@" asikhasan@#')
+    ethan_password = input(' \033[1;32m[\033[1;31m–\033[1;32m] CHOOSE : ')
     linex()
     if ethan_password in ['2','02']:
           pasw2 = input(' \033[1;32m[\033[1;31m–\033[1;32m] ENTER CUSTOM PASSWORD : ')
